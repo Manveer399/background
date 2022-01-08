@@ -1,0 +1,9 @@
+background-repeat 
+background-size: width height
+background-image: url()
+background-position: x-axis y-axis (can take values or specify location for example: bottom right)
+- top 20px right 50 px
+-if specify only 1 value its going to set it to x axis
+note: you can have more than one background-image
+
+
